@@ -8,8 +8,8 @@ other&#39;s performance review.
 Clone the two gihub projects (NetElixirFeedbackTask-1 and NetElixirRestAPI.) into your system.
 
 ### Download:
-* [Download NetElixirFeedbackTask-1] (https://github.com/VenkateshMogili/foldername)
-* [Download NetElixirRestAPI] (https://github.com/VenkateshMogili/foldername)
+* [Download NetElixirFeedbackTask-1] (https://github.com/VenkateshMogili/NetElixirFeedbackTask-1)
+* [Download NetElixirRestAPI] (https://github.com/VenkateshMogili/NetElixirRestAPI)
 
 
 ### Installing
