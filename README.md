@@ -5,7 +5,7 @@ other&#39;s performance review.
 
 ## Getting Started
 
-Clone the two gihub projects (NetElixirFeedbackTask-1 and NetElixirRestAPI.) into your system.
+Clone the two github projects (NetElixirFeedbackTask-1 and NetElixirRestAPI.) into your system.
 
 ### Download:
 * [Download NetElixirFeedbackTask-1] (https://github.com/VenkateshMogili/NetElixirFeedbackTask-1)
