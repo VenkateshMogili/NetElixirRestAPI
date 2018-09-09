@@ -36,7 +36,7 @@ Open NetElixirRestAPI folder
 open cmd
 Type below command in cmd.
 ```
-noder server.js
+node server.js
 Example: C:\Users\venkateshmogili\Desktop\NetElixirRestAPI>node server.js
 ```
 Rest API will start running on port 4000. 
